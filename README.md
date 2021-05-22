@@ -13,6 +13,7 @@ http://kodama17.wp.xdomain.jp/
 ・メニューの作成
 
 補足
+・既存テーマを使用しています。
 ・All-in-One WP Migration（プラグイン）を使用し、WordPress移行。
 
 
